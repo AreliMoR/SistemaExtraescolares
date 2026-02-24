@@ -83,4 +83,3 @@ npm run dev
 ## Notas
 - Si la constancia no se genera, revisa que exista `storage/app/public/certificados/plantilla.pdf` y permisos de escritura.
 - La configuracion de correo y colas depende del entorno.
-'
